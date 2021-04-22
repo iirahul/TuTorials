@@ -8,7 +8,7 @@ public class StaticDemo {
 	public StaticDemo() {
 		salary=5000;
 		eid=1;
-		ceo = "pankaj";
+		
 	}
 	
 	public void show() {
