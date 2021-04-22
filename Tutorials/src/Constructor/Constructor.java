@@ -2,8 +2,17 @@ package Constructor;
 
 public class Constructor {
 	int num1;
-	int num1;
+	int num2;
 	public Constructor() {
+		
+		System.out.println("Inside default  Construct");
+		
+		
+	}
+	public Constructor(int i) {
+		i++;
+		System.out.println("Inside 2nd Construct");
+		
 		
 	}
 
@@ -12,7 +21,7 @@ public class Constructor {
 		
 		Constructor obj = new Constructor();
 		
-	System.out.print(obj.num1);
+	
 		
 		
 
