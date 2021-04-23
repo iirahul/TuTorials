@@ -15,9 +15,9 @@ public class GUI {
 		frame.setVisible(true);
 		frame.add(panel);
 		panel.setLayout(null);
-		JLabel lable = new JLabel("USER");
-		lable.setBounds(10, 20, 80, 25);
-		panel.add(lable);
+		JLabel la = new JLabel("USER");
+		la.setBounds(10, 20, 80, 25);
+		panel.add(la);
 
 	}
 

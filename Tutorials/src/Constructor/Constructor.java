@@ -19,7 +19,7 @@ public class Constructor {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Constructor obj = new Constructor();
+		Constructor obj = new Constructor(1);
 		
 	
 		
