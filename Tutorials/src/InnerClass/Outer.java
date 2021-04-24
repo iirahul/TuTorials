@@ -29,7 +29,7 @@ public class Outer {
 		
 		obj.show();
 		
-		Inner obj1 =obj.new Inner();
+		Inner obj1 =obj.new Inner();     // We need object of outer class to define new inner class object.
 		
 		obj1.show();
 		

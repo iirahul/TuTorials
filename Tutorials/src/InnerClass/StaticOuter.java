@@ -28,7 +28,7 @@ public class StaticOuter {
 		
 		obj.display();
 		
-		Inner obj1 = new Inner();
+		Inner obj1 = new Inner();      // We DONT need object of outer class to define new inner class object.
 		
 		obj1.show();
 		
