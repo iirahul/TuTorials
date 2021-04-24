@@ -14,7 +14,7 @@ public class StaticDemo {
 	
 	static               // s is small. Static block no parenthesis.  This is when you load a class.
 	{
-		ceo="Ramesh";
+		ceo="Ramesh"; 
 	}
 	public StaticDemo()    // when you create an object
 	{ 
@@ -37,9 +37,9 @@ public class StaticDemo {
 		
 		rahul.eid = 2233;
 		rahul.salary = 100000;
-		/*
+		
 		StaticDemo.ceo = "Harish"; //we can use class name insted of object name , it will work ----CODE
-		*/
+		
 		rahul.show();
 		naveen.show();
 		
