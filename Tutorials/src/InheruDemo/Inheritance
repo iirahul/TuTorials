@@ -1,0 +1,4 @@
+Inheritance is when sub class aquire property of super class.
+When subclass calls super class it also calls the constructor of super class. Refer Class A, B and SuperMethod.
+Java doesnt support multilevel Inheritance because of Ambiguity problem. Class B extends A,C   <---- Not supported.
+super is keyword which we use to represent methods of super class or parent class object.

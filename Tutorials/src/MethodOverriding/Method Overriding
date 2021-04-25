@@ -1,0 +1,4 @@
+Child class method will be called(display in output) than parent class if the method name is same.
+ [ @Override]   by using this keyword you can get the error if you make spelling mistake while writing 
+  the name of same methods. Refere- Class B show().
+  
