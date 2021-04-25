@@ -1,4 +1,4 @@
-package InheruDemo;
+package InheritanceDemo;
 
 
 

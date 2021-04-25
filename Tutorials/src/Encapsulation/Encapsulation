@@ -1,0 +1,3 @@
+When you access veriables or data through methods we call it encapsulation
+The concept of encapsulation is binding data with methods.
+after declaring veriable we can simply right click then go to source and click ob genrate getters and setters.
